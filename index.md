@@ -3,10 +3,10 @@
 layout: default
 ---
 
-# This is a big header
+# Scatterplot of whether students prefer pre-lecture videos over livestreams.
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src=" /home/vscode/personal-site.github.io/static/imgs/output.png alt="Image of Scatterplot. "  width="500"/>
+<img src="personal-site.github.io.static/imgs/output.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## This is a small header
 
